@@ -25,7 +25,7 @@ Le script n'est à lancer **qu'une seule fois** : la tâche reste ensuite en pla
 
 1. Copier `sync_horloge_demarrage.bat` sur le PC Windows.
 2. Double-cliquer dessus et accepter la demande d'élévation (UAC).
-3. Vérifier que le message `SUCCÈS : la tâche planifiée "ResyncHorloge" a été créée` s'affiche.
+3. Vérifier que la fenêtre indique que la tâche planifiée `ResyncHorloge` a bien été créée, puis appuyer sur une touche pour fermer.
 
 Relancer le script plus tard ne pose pas de problème : la tâche existante est remplacée (`/F`).
 
